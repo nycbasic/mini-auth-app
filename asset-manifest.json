@@ -1,15 +1,15 @@
 {
-  "main.css": "/mini-auth/static/css/main.ec028bf7.chunk.css",
-  "main.js": "/mini-auth/static/js/main.f554e658.chunk.js",
-  "main.js.map": "/mini-auth/static/js/main.f554e658.chunk.js.map",
-  "static/css/1.d82232ba.chunk.css": "/mini-auth/static/css/1.d82232ba.chunk.css",
-  "static/js/1.f8f6c879.chunk.js": "/mini-auth/static/js/1.f8f6c879.chunk.js",
-  "static/js/1.f8f6c879.chunk.js.map": "/mini-auth/static/js/1.f8f6c879.chunk.js.map",
-  "runtime~main.js": "/mini-auth/static/js/runtime~main.5bea8be4.js",
-  "runtime~main.js.map": "/mini-auth/static/js/runtime~main.5bea8be4.js.map",
-  "static/css/main.ec028bf7.chunk.css.map": "/mini-auth/static/css/main.ec028bf7.chunk.css.map",
-  "static/css/1.d82232ba.chunk.css.map": "/mini-auth/static/css/1.d82232ba.chunk.css.map",
-  "index.html": "/mini-auth/index.html",
-  "precache-manifest.9a991cd336955de101c706b10923ca05.js": "/mini-auth/precache-manifest.9a991cd336955de101c706b10923ca05.js",
-  "service-worker.js": "/mini-auth/service-worker.js"
+  "main.css": "/mini-auth-app/static/css/main.ec028bf7.chunk.css",
+  "main.js": "/mini-auth-app/static/js/main.f2a91d59.chunk.js",
+  "main.js.map": "/mini-auth-app/static/js/main.f2a91d59.chunk.js.map",
+  "static/css/1.d82232ba.chunk.css": "/mini-auth-app/static/css/1.d82232ba.chunk.css",
+  "static/js/1.f8f6c879.chunk.js": "/mini-auth-app/static/js/1.f8f6c879.chunk.js",
+  "static/js/1.f8f6c879.chunk.js.map": "/mini-auth-app/static/js/1.f8f6c879.chunk.js.map",
+  "runtime~main.js": "/mini-auth-app/static/js/runtime~main.c5a9c3f8.js",
+  "runtime~main.js.map": "/mini-auth-app/static/js/runtime~main.c5a9c3f8.js.map",
+  "static/css/1.d82232ba.chunk.css.map": "/mini-auth-app/static/css/1.d82232ba.chunk.css.map",
+  "static/css/main.ec028bf7.chunk.css.map": "/mini-auth-app/static/css/main.ec028bf7.chunk.css.map",
+  "index.html": "/mini-auth-app/index.html",
+  "precache-manifest.7405e6c3ce7eb2cf166099fe9d7c9fa2.js": "/mini-auth-app/precache-manifest.7405e6c3ce7eb2cf166099fe9d7c9fa2.js",
+  "service-worker.js": "/mini-auth-app/service-worker.js"
 }
